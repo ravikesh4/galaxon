@@ -1,0 +1,21 @@
+
+.navbar nav.uk-navbar-container div.uk-navbar-left ul.uk-navbar-nav li a {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.navbar nav.uk-navbar-container div.uk-navbar-right ul.uk-navbar-nav li {
+    font-weight: 600;
+}
+
+div div.uk-inline div.custom-header {
+    color: black;
+    font-weight: 600;
+    font-size: 50px;
+}
+
+
+footer.footer  {
+    background-color: black;
+    color: white;
+}
